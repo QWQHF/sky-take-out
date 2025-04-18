@@ -7,7 +7,15 @@ sky:
     username: root
     password: ewq/.,321hf/.,
   alioss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tPeFLzsPPT8gG3LPW64
-    access-key-secret: U6k1brOZ8gaOIXv3nXbulGTUzy6Pd7
-    bucket-name: sky-itcast
+    endpoint: oss-cn-shanghai.aliyuncs.com
+    access-key-id: LTAI5tLfzsoq9qfRmS6kknsK
+    access-key-secret: 9AwyQYnKJusbemuUxK86rM8fHzjPUF
+    bucket-name: sky-hfhf
+  redis:
+    host: localhost
+    port: 6379
+    password: "123456"
+    database: 10
+  wechat:
+    appid: wx6aa3649e18a6b14e
+    secret: d03577a6c0d523600fc6874f6ff1a054
